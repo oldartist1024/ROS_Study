@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libwind_estimator.a  CMakeFiles/wind_estimator.dir/WindEstimator.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libwind_estimator.a

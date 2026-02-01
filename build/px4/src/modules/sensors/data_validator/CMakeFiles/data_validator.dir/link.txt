@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libdata_validator.a  CMakeFiles/data_validator.dir/DataValidator.cpp.o CMakeFiles/data_validator.dir/DataValidatorGroup.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libdata_validator.a

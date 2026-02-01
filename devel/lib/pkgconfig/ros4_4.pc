@@ -1,0 +1,8 @@
+prefix=/home/xu/ROS/test/devel
+
+Name: ros4_4
+Description: Description of ros4_4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

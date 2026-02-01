@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libsystemcmds__pwm.a  CMakeFiles/systemcmds__pwm.dir/pwm.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libsystemcmds__pwm.a

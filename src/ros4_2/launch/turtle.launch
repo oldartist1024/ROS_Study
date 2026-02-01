@@ -1,0 +1,9 @@
+<launch>
+    <param name="a" value="1" type="int"/>
+    <rosparam command="load"  file="$(find ros4_2)/launch/launch.yaml" ns="/"/>
+    <node pkg="turtlesim" type="turtlesim_node"     name="myTurtle" output="screen" />
+    <node pkg="turtlesim" type="turtle_teleop_key"  name="myTurtleContro" output="screen">
+        <!-- <remap from="" to="" /> -->
+        <param name="b" value="4" type="int"/>
+    </node>
+</launch>

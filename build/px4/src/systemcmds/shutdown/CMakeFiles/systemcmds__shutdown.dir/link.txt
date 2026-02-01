@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libsystemcmds__shutdown.a  CMakeFiles/systemcmds__shutdown.dir/shutdown.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libsystemcmds__shutdown.a

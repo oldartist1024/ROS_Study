@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libtinybson.a  CMakeFiles/tinybson.dir/tinybson.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libtinybson.a

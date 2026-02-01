@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libmodules__simulator__sensor_baro_sim.a  CMakeFiles/modules__simulator__sensor_baro_sim.dir/SensorBaroSim.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libmodules__simulator__sensor_baro_sim.a

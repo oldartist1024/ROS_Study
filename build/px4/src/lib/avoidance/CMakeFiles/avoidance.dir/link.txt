@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libavoidance.a  CMakeFiles/avoidance.dir/ObstacleAvoidance.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libavoidance.a

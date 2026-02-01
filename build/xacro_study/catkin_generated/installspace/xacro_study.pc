@@ -1,0 +1,8 @@
+prefix=/home/xu/ROS/test/install
+
+Name: xacro_study
+Description: Description of xacro_study
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

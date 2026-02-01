@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libversion.a  CMakeFiles/version.dir/version.c.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libversion.a

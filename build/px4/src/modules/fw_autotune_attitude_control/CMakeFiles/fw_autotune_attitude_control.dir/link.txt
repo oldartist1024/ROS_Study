@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libfw_autotune_attitude_control.a  CMakeFiles/fw_autotune_attitude_control.dir/fw_autotune_attitude_control.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libfw_autotune_attitude_control.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libmodules__control_allocator.a  CMakeFiles/modules__control_allocator.dir/ControlAllocator.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libmodules__control_allocator.a

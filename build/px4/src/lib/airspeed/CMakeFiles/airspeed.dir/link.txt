@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libairspeed.a  CMakeFiles/airspeed.dir/airspeed.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libairspeed.a

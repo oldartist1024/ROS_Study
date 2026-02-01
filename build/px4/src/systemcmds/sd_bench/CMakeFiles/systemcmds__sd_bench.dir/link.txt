@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libsystemcmds__sd_bench.a  CMakeFiles/systemcmds__sd_bench.dir/sd_bench.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libsystemcmds__sd_bench.a

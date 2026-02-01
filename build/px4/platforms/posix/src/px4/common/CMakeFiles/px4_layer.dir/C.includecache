@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xu/ROS/test/src/px4/platforms/posix/include/crc32.h
+sys/types.h
+-
+stdint.h
+-
+
+/home/xu/ROS/test/src/px4/platforms/posix/src/px4/common/lib_crc32.c
+sys/types.h
+-
+stdint.h
+-
+crc32.h
+-
+

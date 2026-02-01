@@ -1,0 +1,7 @@
+<launch>
+    <param name="radius" value="5.0"/>
+    <node pkg="turtlesim" type="turtlesim_node" name="t1">
+        <param name="radius" value="5.0"/>
+    </node>
+
+</launch>

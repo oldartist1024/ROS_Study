@@ -1,0 +1,8 @@
+prefix=/home/xu/ROS/test/install
+
+Name: urdf1
+Description: Description of urdf1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

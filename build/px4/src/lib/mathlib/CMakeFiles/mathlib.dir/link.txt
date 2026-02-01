@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libmathlib.a  CMakeFiles/mathlib.dir/math/test/test.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libmathlib.a

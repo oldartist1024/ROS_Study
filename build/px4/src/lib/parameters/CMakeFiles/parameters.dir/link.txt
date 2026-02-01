@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libparameters.a  CMakeFiles/parameters.dir/parameters.cpp.o CMakeFiles/parameters.dir/param_translation.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libparameters.a

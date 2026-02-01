@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/liblockstep_scheduler.a  CMakeFiles/lockstep_scheduler.dir/src/lockstep_scheduler.cpp.o CMakeFiles/lockstep_scheduler.dir/src/lockstep_components.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/liblockstep_scheduler.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libexamples__work_item.a  CMakeFiles/examples__work_item.dir/WorkItemExample.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libexamples__work_item.a

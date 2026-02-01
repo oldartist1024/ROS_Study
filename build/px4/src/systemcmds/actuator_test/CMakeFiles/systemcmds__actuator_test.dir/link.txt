@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libsystemcmds__actuator_test.a  CMakeFiles/systemcmds__actuator_test.dir/actuator_test.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libsystemcmds__actuator_test.a

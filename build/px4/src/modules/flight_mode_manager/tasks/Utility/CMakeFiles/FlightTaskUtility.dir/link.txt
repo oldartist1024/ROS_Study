@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libFlightTaskUtility.a  CMakeFiles/FlightTaskUtility.dir/Sticks.cpp.o CMakeFiles/FlightTaskUtility.dir/StickAccelerationXY.cpp.o CMakeFiles/FlightTaskUtility.dir/StickYaw.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libFlightTaskUtility.a

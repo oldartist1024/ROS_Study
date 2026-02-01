@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libworld_magnetic_model.a  CMakeFiles/world_magnetic_model.dir/geo_mag_declination.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libworld_magnetic_model.a

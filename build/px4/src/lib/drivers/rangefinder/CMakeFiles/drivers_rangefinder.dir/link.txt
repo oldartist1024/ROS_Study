@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libdrivers_rangefinder.a  CMakeFiles/drivers_rangefinder.dir/PX4Rangefinder.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libdrivers_rangefinder.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libpid.a  CMakeFiles/pid.dir/pid.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libpid.a

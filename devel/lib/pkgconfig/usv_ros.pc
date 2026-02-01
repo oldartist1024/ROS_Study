@@ -1,0 +1,8 @@
+prefix=/home/xu/ROS/test/devel
+
+Name: usv_ros
+Description: Description of usv_ros
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

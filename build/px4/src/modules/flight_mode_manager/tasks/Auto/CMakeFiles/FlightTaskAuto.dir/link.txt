@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libFlightTaskAuto.a  CMakeFiles/FlightTaskAuto.dir/FlightTaskAuto.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libFlightTaskAuto.a

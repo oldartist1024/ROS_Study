@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libRateControl.a  CMakeFiles/RateControl.dir/RateControl.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libRateControl.a

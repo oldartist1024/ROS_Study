@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xu/ROS/test/devel/lib/libFlightTaskDescend.a  CMakeFiles/FlightTaskDescend.dir/FlightTaskDescend.cpp.o
+/usr/bin/ranlib /home/xu/ROS/test/devel/lib/libFlightTaskDescend.a

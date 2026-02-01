@@ -1,0 +1,8 @@
+prefix=/home/xu/ROS/test/devel
+
+Name: navigation_sim
+Description: Description of navigation_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
