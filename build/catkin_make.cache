@@ -1,0 +1,2 @@
+navigation_sim:ros2_1:ros2_2:ros2_3:ros2_5:ros3_2:ros4_2:ros4_4:ros5_1:ros5_2:ros_betabag:urdf_gazebo:urdf_study:xacro_study
+-DCATKIN_DEVEL_PREFIX=/home/xu/ROS/test/devel -DCMAKE_INSTALL_PREFIX=/home/xu/ROS/test/install -G Unix Makefiles
